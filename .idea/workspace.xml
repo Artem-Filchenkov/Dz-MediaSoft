@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c16ab5d-9b14-4e25-95e2-32cb5c5de2d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1ccaqzx1QQYcqI39cmmmUNhXl9e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/php74/php.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager" selected="PHP Script.Kod.php">
+    <configuration name="DZ1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kod.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/Kod.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.Kod.php" />
+      <item itemvalue="PHPUnit.DZ1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.DZ1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c16ab5d-9b14-4e25-95e2-32cb5c5de2d9" name="Default Changelist" comment="" />
+      <created>1590830529277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590830529277</updated>
+      <workItem from="1590830530383" duration="167000" />
+      <workItem from="1590830825447" duration="139000" />
+      <workItem from="1590830975386" duration="3404000" />
+      <workItem from="1590856952951" duration="4387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="347" key="#CLI_Interpreters" timestamp="1590861316433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="347" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1590861316433" />
+    <state x="743" y="210" key="#DZ1" timestamp="1590831360589">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="210" key="#DZ1/0.0.1920.1040@0.0.1920.1040" timestamp="1590831360589" />
+    <state x="767" y="402" key="#Kod.php" timestamp="1590831550302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="767" y="402" key="#Kod.php/0.0.1920.1040@0.0.1920.1040" timestamp="1590831550302" />
+    <state x="765" y="323" key="#PHP" timestamp="1590833068526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="323" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1590833068526" />
+    <state x="677" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590859550186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590859550186" />
+    <state x="415" y="509" key="FileChooserDialogImpl" timestamp="1590861300871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="415" y="509" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590861300871" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1590859501183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590859501183" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1590859501183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590859501183" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1590859501182">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590859501182" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1590859501183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590859501183" />
+    <state x="893" y="654" key="NewPhpFileDialog" timestamp="1590831078998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="893" y="654" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590831078998" />
+    <state x="507" y="219" key="SettingsEditor" timestamp="1590861349833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="507" y="219" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590861349833" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1590833094381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590833094381" />
+    <state x="721" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1590857280818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590857280818" />
+  </component>
+</project>
